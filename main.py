@@ -12,7 +12,7 @@ def print_hi(name):
 
 
 def my_function(a,b):
-    return a x b
+    return a * b
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
